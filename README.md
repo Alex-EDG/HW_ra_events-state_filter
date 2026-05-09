@@ -1,6 +1,6 @@
 # Домашнее задание по курсу "React: Библиотека №1 в современной фронтенд-разработке" к занятию «События и состояние».
 
-*CI* [![Build status](https://ci.appveyor.com/api/projects/status/22locrbft36f9n6t?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ra-events-state-filter)
+*CI* [![Build status](https://ci.appveyor.com/api/projects/status/eqy7w0ouow56r9oh?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ra-events-state-filter)
 
 ![Github Pages](https://github.com/Alex-EDG/HW_ra_events-state_filter)
 
